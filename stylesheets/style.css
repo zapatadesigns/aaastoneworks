@@ -2153,7 +2153,7 @@ input[type="color"],
 	position: relative;
 }
 
-.blog-details .title-post {
+.blog-details .-post {
 	text-transform: uppercase;
 	margin-bottom: 20px;
     letter-spacing: 1.5px;
@@ -2692,7 +2692,7 @@ a.readmore:after{
 .bond-portfolio .title-post {
 	position: absolute;
 
-	background: rgba(255,64,64,0.82);
+	background: #7c0303;
 	padding: 26px 30px;
         transform-origin: 0 0;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -2751,7 +2751,7 @@ a.readmore:after{
 	margin-left: -9px;	
 	content:"+";
 	font-family: "Open Sans", sans-serif;
-	content: red;
+	content: #7c0303;
 }
 
 .bond-portfolio .title-post a, .bond-portfolio .title-post p {
@@ -2813,7 +2813,7 @@ a.readmore:after{
     top: 0px;
     padding: 25px 25px 25px 25px;
 	color: #fff;
-	background: rgba(255,64,64,0.85);
+	background: rgba#7c0303;
 	-webkit-transition: all 0.3s ease-in-out;
 	   -moz-transition: all 0.3s ease-in-out;
 		-ms-transition: all 0.3s ease-in-out;
@@ -4459,7 +4459,7 @@ a.readmore:after{
     top: 0;
     z-index: 9999;  
     width: 100%;
-    background: rgba(255,64,64,0.7);    
+    background: #7c0303;    
 }
 
 /* .maintanance 
