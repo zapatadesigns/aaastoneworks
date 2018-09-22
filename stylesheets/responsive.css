@@ -56,12 +56,13 @@
 	}
 
 	.header.white .header-wrap .logo {
-		margin-top: -56px;
+		
 	}
 
 	.flat-home5 header .header-wrap .logo {
 		top: 8px;
 		margin-left: 40px;
+		size: 20px;
 	}
 
 	.header.white .bond-socials {
